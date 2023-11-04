@@ -18,6 +18,10 @@ public class MyClass {
 	{
 		return a/b;
 	}
+	public void display()
+	{
+		System.out.println("Hello DevOps");
+	}
 
 	public static void main(String[] args) {
 		
