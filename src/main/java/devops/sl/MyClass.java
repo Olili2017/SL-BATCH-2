@@ -23,6 +23,11 @@ public class MyClass {
 		System.out.println("Hello DevOps");
 	}
 
+	public int mod(int a, int b)
+	{
+		return a%b;
+	}
+
 	public static void main(String[] args) {
 		
 		MyClass ob = new MyClass();
